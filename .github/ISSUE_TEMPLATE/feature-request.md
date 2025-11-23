@@ -15,6 +15,3 @@ Uma descrição concisa do que tu queres que aconteça.
 
 **Alternativas (Opcional)**
 Se houver alguma alternativa ao problema, descreve-a aqui.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
