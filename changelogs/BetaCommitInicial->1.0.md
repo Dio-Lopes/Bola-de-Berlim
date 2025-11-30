@@ -43,7 +43,7 @@
 
 - yet_another_config_lib_v3-3.7.1+1.21.1-neoforge -> yet_another_config_lib_v3-3.8.0+1.21.1-neoforge (Downgrade para estar no CurseForge)
 
-
+## Client side:
 ### Added mods:
 - lithium-neoforge-0.15.1+mc1.21.1
 
