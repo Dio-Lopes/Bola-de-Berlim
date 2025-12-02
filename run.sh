@@ -5,6 +5,8 @@
 #  pass them to this script directly
 
 # Make a backup of the world using the current time as a name
+cd /home/dio/Minecraft\ Server/
+
 NOW=$( date '+%F_%H:%M:%S' )
 
 # Compress it using 7z and ultra compression

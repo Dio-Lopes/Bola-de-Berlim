@@ -10,11 +10,13 @@
 /logs
 /mods
 /neoessentials
+/screenlogs
 /versions
 /world
 /world_backups
 /.directory
 /.mixin.out
+
 
 banned-ips.json
 banned-players.json
