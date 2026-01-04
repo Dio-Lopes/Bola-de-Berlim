@@ -5,7 +5,7 @@
 #  pass them to this script directly
 
 # Make a backup of the world using the current time as a name
-cd /home/dio/Minecraft\ Server/
+cd ~/Minecraft\ Server/
 
 NOW=$( date '+%F_%H:%M:%S' )
 
